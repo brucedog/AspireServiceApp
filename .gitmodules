@@ -1,0 +1,3 @@
+[submodule "AspireServiceFrontEnd"]
+	path = AspireServiceFrontEnd
+	url = https://github.com/brucedog/AspireServiceFrontEnd.git
